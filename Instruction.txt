@@ -1,0 +1,34 @@
+psvm
+sout
+
+command N easy create только нажать и задержать
+javac (main.main.java) = compile and create main.main.class
+
+?Run our app
+if we want to run our app we must have Main directory , then create with this command javac Main.java => Main.class and then
+we can run our app from for example src directory with this command => java main.Main
+
+?Comments
+single => like in JS
+
+multiple =>
+/*
+[Something]
+[Something]
+[Something]
+*/
+
+//In Java same as  in JS => (ternary) (if else) (switch case) (math) (brake continue)
+
+
+TIPS
+1)We can create for statement with less code example = numbers.for[and find in IDE which we wont to create]
+2)Watch for arrays => Arrays.stream(arrays).forEach(System.out::println);
+
+?Reminder!!!!!!!!!!!!
+    int [] numbersArr = new int[2] => we must to declare how many items will be in array same as boolean string etc...
+or
+    int [] numbers = {2,3,4,5,6,7,8,9};
+
+
+    final = const (JS)
